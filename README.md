@@ -1,2 +1,2 @@
 # mattermost-_terraform
-mattermost terraform script 
+mattermost terraform script using terraform 
